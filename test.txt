@@ -1,0 +1,11 @@
+test.txt
+
+:Author: Mathieu Gaborit (matael)
+:Email: mathieu@matael.org
+:Date: 2015-12-01 21:06
+
+
+
+
+.. vim: expandtab filetype=rst shiftwidth=4 tabstop=4
+
