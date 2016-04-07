@@ -2,3 +2,4 @@ test3.txt - 2016-04-07 14:17
 
 Just to see what happens..
 Basically nothing as I did not add the -S to the commit... should be OK now.
+Was OK, but with an updated gpg key, it should be even better!
